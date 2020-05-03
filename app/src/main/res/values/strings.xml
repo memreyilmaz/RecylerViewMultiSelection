@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">RecylerViewMultiSelection</string>
+    <string name="cart_sum">Total %1$s</string>
+    <plurals name="title_action_bar_item_selected">
+        <item quantity="one">%d Item Selected</item>
+        <item quantity="other">%d Items Selected</item>
+    </plurals>
 </resources>
